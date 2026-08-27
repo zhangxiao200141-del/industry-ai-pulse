@@ -1,0 +1,38 @@
+---
+AIGC:
+    Label: "1"
+    ContentProducer: 001191440300708461136T1XGW3
+    ProduceID: 42211752d5fc29c5497117e7b5b7dd8e_070f95e29a3911f19467525400287e28
+    ReservedCode1: y5u9H6pr02DqKS4rzSFHx/Ht/2fKOtCbqUGYt3ZpWNtDZJ4c5l3dbygBsXJDJUghTW6u8hY75zP1Lm2fMtsXCtLcWw803AfBG0Tz8od/GffnVxmzbb9jZsLysvFLb/DZ9zXCKcc5t0Dskt8qTPYSBVL8xN5YTLANvRLpvW2f9KAebJKUkTwS8qDXZts=
+    ContentPropagator: 001191440300708461136T1XGW3
+    PropagateID: 42211752d5fc29c5497117e7b5b7dd8e_070f95e29a3911f19467525400287e28
+    ReservedCode2: y5u9H6pr02DqKS4rzSFHx/Ht/2fKOtCbqUGYt3ZpWNtDZJ4c5l3dbygBsXJDJUghTW6u8hY75zP1Lm2fMtsXCtLcWw803AfBG0Tz8od/GffnVxmzbb9jZsLysvFLb/DZ9zXCKcc5t0Dskt8qTPYSBVL8xN5YTLANvRLpvW2f9KAebJKUkTwS8qDXZts=
+---
+
+
+
+
+
+# K12 教育 - 抖音脚本
+
+（60 秒，约 200-260 字，3 秒钩子 + 反转 + 数据可视化）
+
+【0-3 秒 · 钩子】
+老师要失业了？教育部刚发的文件，说反了。
+
+【3-15 秒 · 反转】
+家人们，先别慌。2026 年 4 月，教育部《"人工智能+教育"行动计划》写得明明白白：AI 只能辅助授课，禁止当课堂主讲。在编老师，政策兜底。
+
+【15-35 秒 · 数据冲击】
+但另一拨人，真危险了。作业帮 AI 超级老师，通过 13 科模拟教资，学习效果提升 42%。学而思 T6，AI 双师课堂。校外辅导、课程销售、教辅编撰——这些标准化岗位，AI 正在一个个接手。
+
+【35-50 秒 · 案例】
+杭州中院 5 月刚判了：公司以 AI 替岗为由解约，违法，赔 26 万。AI 还没到替代人的程度，但已经到了替代"重复劳动"的程度。
+
+【50-60 秒 · 收尾】
+划重点：别跟 AI 拼重复，要拼判断、拼情感、拼育人。转行方向：AI 教学设计师、成长导师、学习数据分析师。评论区聊聊，你的岗位，AI 能替吗？
+
+#AI教育 #教师 #职业规划 #AI冲击 #教育行业
+*（内容由AI生成，仅供参考）*
+*（内容由AI生成，仅供参考）*
+*（内容由AI生成，仅供参考）*
