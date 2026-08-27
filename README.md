@@ -14,7 +14,7 @@
 
 ```
 ai-intel-workshop/
-├── SKILL.md        # Skill 指令本体（标准 frontmatter：name / description）
+├── SKILL.MD        # Skill 指令本体（标准 frontmatter：name / description）
 ├── meta.json       # Skill 元信息
 ├── LICENSE         # MIT 开源许可
 └── examples/       # 运行示例输出
