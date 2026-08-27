@@ -1,4 +1,4 @@
-# AI 情报车间 (ai-intel-workshop)
+# AI 情报车间 (industry-ai-pulse)
 
 > 输入行业名，自动产出 AI 冲击信号报告 + 公众号 / 小红书 / 抖音 三平台内容素材。
 
@@ -13,7 +13,7 @@
 ## 项目结构
 
 ```
-ai-intel-workshop/
+industry-ai-pulse/
 ├── SKILL.md        # Skill 指令本体（标准 frontmatter：name / description）
 ├── meta.json       # Skill 元信息
 ├── LICENSE         # MIT 开源许可
@@ -22,7 +22,7 @@ ai-intel-workshop/
 
 ## 安装 / 使用
 
-- 将 `ai-intel-workshop/` 放入自定义 skills 目录即可加载；
+- 将 `industry-ai-pulse/` 放入自定义 skills 目录即可加载；
 - 在支持 GitHub 链接关联的 Agent 平台中，填入本仓库地址即可自动识别为可用的 Skill 源。
 
 ## License
